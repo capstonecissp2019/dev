@@ -1,0 +1,77 @@
+{
+    "id": 1,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "DriverManager Class",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Specifying Database Connection URLs",
+            "value": 0,
+            "parents": []
+        },        {
+            "id": 2,
+            "name": "MySQL Connector/J Database URL",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Deploying Basic DataSource Objects",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Creating Instance of DataSource Class and Setting its Properties",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 5,
+            "name": "Registering DataSource Object with Naming Service That Uses JNDI API",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 6,
+            "name": "Using Deployed DataSource Object",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 7,
+            "name": "Getting and Using Pooled Connections",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 8,
+            "name": "Deploying Distributed Transactions",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 9,
+            "name": "Using Connections for Distributed Transactions",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 10,
+            "name": "Retrieving SQLE Exceptionse",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 99,
+            "name": "Retrieving SQLE Warnings",
+            "value": 0,
+            "parents": []
+        }
+    ]
+}
