@@ -1,3 +1,9 @@
+/**
+id: id number of node
+name: human node name
+Value: 0 False 1 true
+Parents have the format {jsonid: X abilityID: X}
+
 {
     "id": 0,
     "name": "",
