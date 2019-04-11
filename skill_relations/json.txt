@@ -1,0 +1,1 @@
+ID: individual ID of the Skill Cloud and Skill Value, Skill Clouds can have the same ID of Skill Attributes but no two clouds and no two attributes can have the same value. Also Names are the human names of the values. Value 0 false, 1 true false is default. Parents have format {tid: SkillCloudID, id: SkillAttributeValue}
