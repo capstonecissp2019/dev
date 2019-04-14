@@ -1,4 +1,4 @@
-    <header>
+ <header>
         <!-- Navbar -->
         <div class="pos-f-t">
             <div class="collapse" id="navbarToggleExternalContent">
@@ -27,31 +27,37 @@
         </div>
     </header>
     <main >
-        <!-- Title Section -->
-        <section id="title">
-            <div class="jumbotron jumbotron-fluid ">
-                <div class="container">
-                    <h1 class="display-4 text-white">Tables Project</h1>
-                    <p class="lead text-white">Stop The Suffering
-                    </p>
+<div class="container">
+    <div class="row justify-content-center">
+    <div class="col-xs-6 col-sm-5 col-md-4 ">
+    <form action="/login" method="POST" class="card  p-2 m-4" >
+        <div class="mb-3">
+            <label for="username">Username</label>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">@</span>
+                </div>
+                <input type="text" class="form-control" id="username" placeholder="Username" required="">
+                <div class="invalid-feedback" style="width: 100%;">
+                    Your username is required.
                 </div>
             </div>
-        </section>
+        </div>
+        <div class="mb-3">
+            <label for="password">Password</label>
+            <div class="input-group">
+                <input type="text" class="form-control" id="password" placeholder="Password" required="">
+                <div class="invalid-feedback" style="width: 100%;">
+                    Your password is required.
+                </div>
+            </div>
+        </div>
+        <button class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
+    </form>
+</div>
+</div>
+</div>
         
 
     </main>
 
-    <footer class="page-footer font-small bg-light">
-
-        <!-- Contact -->
-        <div class="text-center">
-            <address>
-                <p>Contact me at
-                    <a href="mailto:qpf2@students.uwf.edu">qpf2@students.uwf.edu</a>.</p>
-            </address>
-            <p>Quinton Fallon</p>
-
-        </div>
-        <!-- contact -->
-
-    </footer>
