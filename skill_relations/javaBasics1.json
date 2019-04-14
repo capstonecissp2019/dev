@@ -1,0 +1,99 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Primitive Data Types",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Arrays",
+            "value": 0,
+            "parents": []
+        },        {
+            "id": 2,
+            "name": "Assignment, Arithmetic, and Unary Operators",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Equality, Relational, and Conditional Operators",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Bitwise and Bit Shift Operators",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 5,
+            "name": "Expressions",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 6,
+            "name": "Statements",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 7,
+            "name": "Blocks",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 8,
+            "name": "if-then Statement",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 9,
+            "name": "if-then-else",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 10,
+            "name": "switches",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 11,
+            "name": "while loops",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 12,
+            "name": "do-while loops",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 13,
+            "name": "for loops",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 14,
+            "name": "Branching statements",
+            "value": 0,
+            "parents": []
+        }
+
+
+
+
+    ]
+}

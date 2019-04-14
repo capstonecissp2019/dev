@@ -1,0 +1,63 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Number Class",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Formatting Numeric Print Output",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 2,
+            "name": "Beyond Basic Arithmetic",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "String Class",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Converting Between Numbers and Strings",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 5,
+            "name": "Manipulating Characters in a String",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 6,
+            "name": "Comparing Strings and Portions of Strings",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 7,
+            "name": "StringBuilder Class",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 8,
+            "name": "Autoboxing and Unboxing",
+            "value": 0,
+            "parents": []
+        },
+
+
+
+	]
+}

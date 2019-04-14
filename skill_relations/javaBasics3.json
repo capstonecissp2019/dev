@@ -1,0 +1,68 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Inheritance",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Multiple Inheritance",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 2,
+            "name": "Overriding Methods",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Hiding Methods",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Polymorphism",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 5,
+            "name": "Hiding Fields",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 6,
+            "name": "super Keyword",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 7,
+            "name": "Objects as Superclass",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 8,
+            "name": "Final Classes and Methods",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 9,
+            "name": "Abstract Classes and Methods",
+            "value": 0,
+            "parents": []
+        },
+
+
+	]
+}

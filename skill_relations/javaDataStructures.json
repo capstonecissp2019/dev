@@ -1,0 +1,47 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Queue",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Stack",
+            "value": 0,
+            "parents": []
+        },        {
+            "id": 2,
+            "name": "Array",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Map",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Link Lists",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 5,
+            "name": "Trees",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 6,
+            "name": "Graphs",
+            "value": 0,
+            "parents": []
+        }
+    ]
+}

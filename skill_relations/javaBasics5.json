@@ -1,0 +1,93 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Generic Types",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Generic Methods",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Generics, Inheritance and Subtypes",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Type Inference",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Wildcards",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Upper Bounded Wildcards",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Lower Bounded Wildcards",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Wildcards and Subtyping",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Wildcard Capture and Helper Methods",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Type Erasure",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Erasure of Generic Types",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Erasure of Generic Methods",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Non-Reifiable Types",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 0,
+            "name": "Restrictions on Generics",
+            "value": 0,
+            "parents": []
+        },
+
+
+
+	]
+}

@@ -1,0 +1,167 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Stage",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Scene",
+            "value": 0,
+            "parents": []
+        },        {
+            "id": 2,
+            "name": "Label",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Button",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Menu Button",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 5,
+            "name": "Toggle Button",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 6,
+            "name": "Radio Button",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 7,
+            "name": "Check Box",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 8,
+            "name": "Choice Box",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 9,
+            "name": "Combo Box",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 10,
+            "name": "List View",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 11,
+            "name": "Date Picker",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 12,
+            "name": "Text Field",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 13,
+            "name": "Password Field",
+            "value": 0,
+            "parents": []
+        },
+				        {
+            "id": 14,
+            "name": "Text Area",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 15,
+            "name": "Tool Bar",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 16,
+            "name": "Tool Tip",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 17,
+            "name": "File Chooser",
+            "value": 0,
+            "parents": []
+        },
+				        {
+            "id": 18,
+            "name": "Group",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 19,
+            "name": "Flow Pane",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 20,
+            "name": "Tile Pane",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 21,
+            "name": "Grid Pane",
+            "value": 0,
+            "parents": []
+        },
+				        {
+            "id": 22,
+            "name": "Menu Pane",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 23,
+            "name": "Bar Chart",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 24,
+            "name": "Scatter Chart",
+            "value": 0,
+            "parents": []
+        },
+		        {
+            "id": 25,
+            "name": "Line Chart",
+            "value": 0,
+            "parents": []
+        },
+				        {
+            "id": 26,
+            "name": "Area Chart",
+            "value": 0,
+            "parents": []
+        }
+    ]
+}

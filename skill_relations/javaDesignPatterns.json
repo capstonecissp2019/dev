@@ -1,0 +1,47 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Singleton Pattern",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Factory Pattern",
+            "value": 0,
+            "parents": []
+        },        {
+            "id": 2,
+            "name": "Abstract Factory Pattern",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Builder Pattern",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Prototype Pattern",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 5,
+            "name": "Trees",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 6,
+            "name": "Graphs",
+            "value": 0,
+            "parents": []
+        }
+    ]
+}

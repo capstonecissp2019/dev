@@ -1,0 +1,40 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Packages",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Creating a Package",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 2,
+            "name": "Naming a Package",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Using Package Members",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Managing Source and Class files",
+            "value": 0,
+            "parents": []
+        },
+
+
+
+
+	]
+}

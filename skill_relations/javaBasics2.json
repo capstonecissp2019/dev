@@ -1,0 +1,103 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Declaring Classes",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Declaring Member Variables",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 2,
+            "name": "Defining Methods",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Constructors, Accessors, Mutators",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Creating Objects",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 5,
+            "name": "Using Objects",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 6,
+            "name": "Returning a Value from Method",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id":7,
+            "name": "this Keyword",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 8,
+            "name": "Controlling Access to Members of Class",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 9,
+            "name": "Initializing Fields",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 10,
+            "name": "Nested Classes",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 11,
+            "name": "Inner Classes",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 12,
+            "name": "Local Classes",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 13,
+            "name": "Anonymous Classes",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 14,
+            "name": "Lambda Expressions",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 15,
+            "name": "ENUM",
+            "value": 0,
+            "parents": []
+        },
+
+	]
+}
