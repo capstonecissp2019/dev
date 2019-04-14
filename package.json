@@ -1,0 +1,24 @@
+{
+  "name": "capstone_project",
+  "version": "0.1.1",
+  "description": "tablesproject",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "mongoose": "^5.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capstonecissp2019/dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capstonecissp2019/dev/issues"
+  },
+  "homepage": "https://github.com/capstonecissp2019/dev#readme"
+}
