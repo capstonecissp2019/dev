@@ -1,0 +1,57 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Fundamental Data Types",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Literals and Constants",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 2,
+            "name": "Fundamental Data Types",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Assignment, Arithmetic, and Compound Assignment Operators",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 4,
+            "name": "Inrement and Decrement, Relational and Comparisson Operators",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 5,
+            "name": "Logical, and Conditional Ternary Operators",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 6,
+            "name": "Comma, Bitwise Operators",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 7,
+            "name": "Explicit Type Casting",
+            "value": 0,
+            "parents": []
+        },
+
+
+
+	]
+}

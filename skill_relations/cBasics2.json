@@ -1,0 +1,33 @@
+{
+    "id": 0,
+    "name": "",
+    "abilities": [
+        {
+            "id": 0,
+            "name": "Standard Output (cout)",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 1,
+            "name": "Standard Input (cin)",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 2,
+            "name": "cin and Strings",
+            "value": 0,
+            "parents": []
+        },
+        {
+            "id": 3,
+            "name": "Stringstream",
+            "value": 0,
+            "parents": []
+        },
+
+
+
+	]
+}
