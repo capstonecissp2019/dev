@@ -6,9 +6,22 @@ lastSignedOn: Date,
 screenName: String,
 email: String,
 createdOn: Date,
-rollId: String,
-rollName:String,
-rollDesc:String,
+
+notification : [
+    {
+        created_on : Date,
+        message : String,
+        link : String,
+        view_status : Boolean,
+    } ],
+    role : [
+        {
+            role_id : String,
+            role_name : String,
+            role_desc : String,
+        }
+    ],
+
 
 });
 

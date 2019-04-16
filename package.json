@@ -4,8 +4,25 @@
   "description": "tablesproject",
   "main": "app.js",
   "dependencies": {
+    "array-flatten": "^2.1.2",
     "bcrypt": "^3.0.6",
-    "mongoose": "^5.3.8"
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "content-disposition": "^0.5.3",
+    "cookie-parser": "^1.4.4",
+    "destroy": "^1.0.4",
+    "etag": "^1.8.1",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "express-session": "^1.16.1",
+    "finalhandler": "^1.1.1",
+    "fresh": "^0.5.2",
+    "handlebars": "^4.1.2",
+    "merge-descriptors": "^1.0.1",
+    "methods": "^1.1.2",
+    "mongoose": "^5.3.8",
+    "path-to-regexp": "^3.0.0",
+    "utils-merge": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {

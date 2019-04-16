@@ -26,30 +26,16 @@ app.use(require("express-session")({
 
 
 //Configures Database Calls
-/* const options = { server: { socketOption: { keepAlive: 1 } } };
+ const options = { server: { socketOption: { keepAlive: 1 } } };
 
 let mongooseLogin = require("mongoose");
-let dbLogin = mongooseLogin.createConnection('mongodb://dbuser:dbpassword1@ds127644.mlab.com:27644/project6_login', options);
-let Login = require('./models/login.js')(dbLogin);
+let dblogin = mongooseLogin.createConnection('mongodb://dbuser:dbpassword1@ds053140.mlab.com:53140/login', options);
+let Login = require('./models/login.js')(dblogin);
 
-let  mongooseSkill= require("mongoose");
-let dbSkill = mongooseSkill.createConnection('mongodb://dbuser:dbpassword1@ds227664.mlab.com:27664/project6_qb_data', options);
-let skill = require('./models/player.js')(dbSkill);
 
-let mongooseUser = require("mongoose");
-let dbUser = mongooseUser.createConnection('mongodb://dbuser:dbpassword1@ds227664.mlab.com:27664/project6_qb_data', options);
-let user = require('./models/player.js')(dbUser);
+dblogin.on('error', console.error.bind(console, 'connection error:'));
+dblogin.once('open', function() { console.log("dbLogin connected") });
 
-dbLogin.on('error', console.error.bind(console, 'connection error:'));
-dbLogin.once('open', function() { console.log("dbLogin connected") });
-
-dbSkill.on('error', console.error.bind(console, 'connection error:'));
-dbSkill.once('open', function() { console.log("dbSkill connected") });
-
-dbUser.on('error', console.error.bind(console, 'connection error:'));
-dbUser.once('open', function() { console.log("dbUser connected") });
-
- */
 
 let loginHelpers = require("./helpers/loginHelper.js")({ Login: Login });
 
